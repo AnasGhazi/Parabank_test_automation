@@ -1,0 +1,23 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Test/coverage
+coverage/
+*.cover
+.cache/
+.pytest_cache/
+

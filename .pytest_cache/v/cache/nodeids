@@ -1,0 +1,4 @@
+[
+  "tests/test_register_and_login.py::test_login",
+  "tests/test_register_and_login.py::test_register"
+]
